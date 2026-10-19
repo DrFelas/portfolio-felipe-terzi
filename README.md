@@ -4,7 +4,7 @@ Site pessoal de portfólio com apresentação, habilidades, lista de projetos,
 galeria de desenhos e contatos.
 
 ## Site publicado
-https://seu-usuario.github.io/portfolio-felipe/
+https://drfelas.github.io/portfolio-felipe-terzi/
 
 ## Tecnologias usadas
 - HTML5
